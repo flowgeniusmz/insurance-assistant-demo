@@ -12,8 +12,8 @@ st.set_page_config("FEOC Assistant1234", initial_sidebar_state="collapsed", layo
 
 #1. Login and Page Setup
 if lg.check_authentication():
-    ps.set_title("FEOC", "FEOC Assistant")
-    ps.set_page_overview("Overview", "**FEOC Assistant** provides a way to quickly ask about the FEOC")
+    ps.set_title("FlowGenius", "Insurance Assistant")
+    ps.set_page_overview("Overview", "**Insurance Assistant** provides a way to quickly ask about the insurance and actuarial science")
 
 #2. Variable Setup
 
